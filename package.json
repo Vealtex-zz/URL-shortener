@@ -1,0 +1,21 @@
+{
+  "name": "url-shortener",
+  "description": "A PHP script to short up URL.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "/assets/app.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/vealtex/url-shortener"
+  },
+  "author": {
+    "name": "Vealtex",
+    "company": "Vealtex.com",
+    "homepage": "https://vealtex.com",
+    "email": "support@vealtex.com"
+  },
+  "dependencies": {
+    "@bybas/latte-ui": "^1.8.3",
+    "vue": "^2.6.11"
+  }
+}

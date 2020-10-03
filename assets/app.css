@@ -1,0 +1,20 @@
+
+.no__link {
+    text-decoration: none;
+}
+
+.coffee-button {
+    height: 30px;
+    width: 30px;
+}
+
+.ulicon {
+    margin-right: 10px;
+    margin-top: -3px;
+}
+
+.notice-success > p > a {
+    text-decoration: none !important;
+    font-weight: 600 !important;
+    color: #5ba658 !important;
+}
