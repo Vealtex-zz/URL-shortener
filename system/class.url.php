@@ -39,7 +39,7 @@ class url {
 
         if(isset($_POST['submit-url'])) {
             $url = $_POST['url'];
-            $pincodes = array("1111", "2222", "3333");
+            $pincodes = array("2525", "4567", "1111");
             $pincode = $_POST['pincode'];
 
             if (in_array($pincode, $pincodes)) {
